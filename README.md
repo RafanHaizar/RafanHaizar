@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17616
-Fork on GitHub
-5149
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Rafan Haizar</h1>
 <h3 align="center">I'm an enthusiastic and talented Class 6 student with a passion for programming, problem- solving, and ethical hacking. Seeking opportunities to further develop skills, contribute to projects, and continue learning in the fields of software development and Cyber Security.</h3>
 
